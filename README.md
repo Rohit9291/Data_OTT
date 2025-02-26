@@ -10,7 +10,7 @@ Analyze the data and generate insights that could help Netflix to deciding which
    -> Visual Analysis - Univariate, Bivariate
 5. Given Business Insights and Recommendations.
    
-# Business Insights:
+## Business Insights:
 1. Missing values in Director, Cast, Country, and Date Added can negatively impact user experience.
 2. The "Duration" column shows 1 season as the most frequent value, which doesn’t provide users with clear information about the content's length .
 3. Duplicate entries lead to discrepancies between count and unique records in the dataset.
@@ -20,7 +20,7 @@ Analyze the data and generate insights that could help Netflix to deciding which
 7. TV-MA is the dominant rating, suggesting a mature audience preference for movies.
 8. Missing information (e.g., Director, Cast) can be filled using third-party sources like IMDB, enhancing content metadata.
 
-# Recommendations:
+## Recommendations:
 1. Fill missing Director and Cast data by pulling from third-party sources or using a default "missing" value.
 2. Address missing Country data for better content discoverability in different markets.
 3. Standardize duration data by showing actual runtime (hours/minutes for movies) or episode counts for TV shows. This helps users assess time commitment and enhances user satisfaction.

@@ -11,7 +11,7 @@ Analyze the data and generate insights that could help Netflix to deciding which
 5. Given Business Insights and Recommendations.
    
 ## Business Insights:
-1. Missing values in Director, Cast, Country, and Date Added can negatively impact user experience.
+1. Missing values in Director, Cast, Country, and Date column Added can negatively impact user experience.
 2. The "Duration" column shows 1 season as the most frequent value, which doesn’t provide users with clear information about the content's length .
 3. Duplicate entries lead to discrepancies between count and unique records in the dataset.
 4. A significant number of movies and shows were produced in 2018, followed by a decline in production in subsequent years.
